@@ -2,6 +2,9 @@
 
 This project develops an interactive data exploration dashboard for stroke analysis using RShiny. The dashboard allows users to visualize and analyze stroke-related data dynamically.
 
+## Dataset  
+[Kaggle - Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+
 ## Features  
 - **Interactive visualizations** for stroke data analysis  
 - **Data filtering and exploration** using user inputs  
