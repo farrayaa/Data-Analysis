@@ -2,6 +2,9 @@
 
 This project performs an exploratory data analysis (EDA) on East Java's demographic data, utilizing various visualization techniques. The analysis is conducted using RStudio and MINITAB.
 
+## Dataset  
+**Source:** [BPS Jawa Timur (Statistics Indonesia - East Java)](https://jatim.bps.go.id/)  
+
 ## Steps  
 1. **Data Exploration**  
 2. **Data Visualization**  
