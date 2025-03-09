@@ -36,13 +36,13 @@ pip freeze > requirements.txt
 
 ### 4. Run the Application
 ```sh
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 ## Folder Structure
 ```
 .
-├── app.py              # Main Streamlit script
+├── streamlit_app.py              # Main Streamlit script
 ├── data/               # Folder for storing dataset
 ├── images/             # Folder for storing images
 │   ├── dashboard_preview.png
