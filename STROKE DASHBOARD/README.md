@@ -11,7 +11,7 @@ This project develops an interactive data exploration dashboard for stroke analy
 - **Multiple chart types** for better insights  
 
 ## Preview  
-![Dashboard Preview](path/to/Dashboard%20Stroke.png)
+![Dashboard Preview](Dashboard%20Stroke.png)
 
 ## How to Run  
 1. Ensure R and RShiny are installed.  
