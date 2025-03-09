@@ -2,7 +2,7 @@
 
 An interactive dashboard for analyzing bike-sharing data using Streamlit.
 
-![Dashboard Preview](images/Dashboard%20Bike%20Sharing.png)
+![Dashboard Preview](Dashboard%20Bike%20Sharing.png)
 
 ## Features
 - Visualization of bike rental data  
