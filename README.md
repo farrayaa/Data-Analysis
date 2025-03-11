@@ -1,4 +1,4 @@
-# Data Analysis
+# Python Project
 
 ## Description
 Here are some final projects I worked on during my studies using Python.
